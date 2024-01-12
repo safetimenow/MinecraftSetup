@@ -122,7 +122,7 @@ world-settings:
       item: 2.5
       exp: 3.0
     view-distance: default
-    mob-spawn-range: 8
+    mob-spawn-range: 4
     thunder-chance: 100000
     entity-tracking-range:
       players: 48
