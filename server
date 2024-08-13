@@ -1,3 +1,0 @@
-#!/bin/bash
-cd "$(dirname "$0")"
-exec java -Xms1453M -Xmx2374M -jar minecraft.jar --nogui
